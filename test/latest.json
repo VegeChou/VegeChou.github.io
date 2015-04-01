@@ -1,0 +1,7 @@
+{
+    "version": "10.10.10",
+    "versionCode":10000,
+    "URL": "http://sensoro.github.io/download/app/sensoro-beacon-utilities/android/yunzi.apk",
+	"releaseNote": "Improvement:\n- 1.Fixed bug: It will crash APP when scanning some beacons. \n- 2.Support broadcast keys with valid period.\n- 3.Fixed some other bugs.",
+    "releaseNoteCN": "改进:\n- 1.修复某些beacon导致APP异常的bug。\n- 2.支持带有有效期的广播key。\n- 3.修复其他已知bug。"
+}
